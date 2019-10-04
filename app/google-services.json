@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "1081163519388",
+    "firebase_url": "https://myapplicationtest-b1047.firebaseio.com",
+    "project_id": "myapplicationtest-b1047",
+    "storage_bucket": "myapplicationtest-b1047.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081163519388:android:100ea99162674433b86459",
+        "android_client_info": {
+          "package_name": "com.petersburg_studio.myapplicationtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081163519388-s3d9c7thteh4etfls71h9j2g21capb5e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.petersburg_studio.myapplicationtest",
+            "certificate_hash": "f9f288145f84a564018b48dd5b86f030b8a0c07f"
+          }
+        },
+        {
+          "client_id": "1081163519388-c3hhhe4h8vqck8mf08psu0vnv1h8tlsc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.petersburg_studio.myapplicationtest",
+            "certificate_hash": "c38f677e59ea0f2b71e23d4f08211561fb40c660"
+          }
+        },
+        {
+          "client_id": "1081163519388-40e5105i4im8c3is2jhps8450hv4nkpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYbi7iwkD5Roid5FMO9dUGqq-HDQMXSJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081163519388-40e5105i4im8c3is2jhps8450hv4nkpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081163519388:android:cce646eeca0392f6b86459",
+        "android_client_info": {
+          "package_name": "com.petersburg_studio.testforjob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081163519388-1gb9bo19hnk09gedp6s9r84qpmj22b6v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.petersburg_studio.testforjob",
+            "certificate_hash": "f9f288145f84a564018b48dd5b86f030b8a0c07f"
+          }
+        },
+        {
+          "client_id": "1081163519388-40e5105i4im8c3is2jhps8450hv4nkpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYbi7iwkD5Roid5FMO9dUGqq-HDQMXSJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081163519388-40e5105i4im8c3is2jhps8450hv4nkpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
